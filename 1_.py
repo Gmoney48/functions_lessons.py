@@ -43,16 +43,16 @@
 # print(mutiply(1, 2))
 # print(divide(1, 2))
 
-def create_name(first, last):
-    first = first.capitalize()
-    last = last.capitalize()
-    return first + " " + last
+# def create_name(first, last):
+#     first = first.capitalize()
+#     last = last.capitalize()
+#     return first + " " + last
 
-full_name = create_name("Spongebob","Squarepants")
+# full_name = create_name("Spongebob","Squarepants")
 
-print(full_name)
+# print(full_name)
 
-# Remove the characters to the left of our main text:
+# # Remove the characters to the left of our main text:
 
 # ,
 
