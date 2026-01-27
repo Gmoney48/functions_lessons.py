@@ -33,7 +33,7 @@
 # You should only define the function and create the variable, you should call the function afterwards.
 
 def square(number):
-    print(number ** 2)
+    return(number ** 2)
 
 square_number = square(3)
 print(square_number)

@@ -3,8 +3,17 @@
 
 # Don't call the function, you just need to define it.
 
+numbers = [2, 5, -7, 10, 3, 4] 
+
+def all_positives(list):
+    for number in list:
+        if number < 0:
+            return False
+        else:
+            return True
 
 
+# Create a list named numbers with positive and negative values
 
 
 
