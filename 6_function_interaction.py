@@ -17,6 +17,7 @@
 
 # Hint: use the random library's choice or randint method to choose a random value between 1 and 6.
 
+def throw_dice()
 
 
 # Interactions Between Functions Practice #2
